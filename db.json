@@ -1,0 +1,27 @@
+{
+  "employer_agreement": [
+    {
+      "recruiter_name": "bhavana",
+      "employer_name": "bhavana",
+      "employer_company_name": "gts",
+      "employer_company_location": "banglore",
+      "jobseeker_name": "bhavana",
+      "project_manager": "bhavana",
+      "client_company_name": "Microsoft",
+      "client_company_location": "banglore",
+      "job_title": "software engineer",
+      "functions_duties": "",
+      "date": "2020-12-15",
+      "no_of_months": "5",
+      "salary": "10k",
+      "currency_type": "INR",
+      "jobseeker_email": "bhavanamunagala9494@gmail.com",
+      "jobseeker_contact": "7780511974",
+      "employer_email": "bhavanamunagala9494@gmail.com",
+      "employer_contact": "7780511974",
+      "project_manager_email": "bhavanamunagala9494@gmail.com",
+      "project_manager_contact": "7780511974",
+      "id": 1
+    }
+  ]
+}
